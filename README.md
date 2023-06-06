@@ -1,6 +1,7 @@
 # Hackstory-ctd
 Team: Ctrl Alt Del 
 Topic: Hate speech recognition model
+USP: platform to recognise hate speech and profanity
 # Hate Speech Detection Chrome Extension
 
 This project aims to create a Chrome extension for detecting hate speech using a machine learning model. The extension allows users to open a text file or enter text in the provided text box, and it predicts whether the text contains hate speech.
