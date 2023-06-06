@@ -1,3 +1,3 @@
 # Hackstory-ctd
-Team: Ctrl Alt Del \n
+Team: Ctrl Alt Del 
 Topic: Hate speech recognition model
